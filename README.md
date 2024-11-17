@@ -1,8 +1,23 @@
-<p align="center">
-  <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
-    <rect width="400" height="100" style="fill:#282c34;"/>
-    <text x="50%" y="50%" fill="#61dafb" dominant-baseline="middle" text-anchor="middle" font-size="24" font-family="Arial">
-      Hello World
-    </text>
-  </svg>
-</p>
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                                                                                                     
+                                                                                                     
+                                                                                                     
+                                    ╭─────────────────────────────────╮                              
+                                    │                                 │                              
+                                    │                                 │                              
+                                    │                                 │                              
+                                    │     <span style="color: #FF69B4">H</span><span style="color: #FFD700">e</span><span style="color: #87CEEB">l</span><span style="color: #98FB98">l</span><span style="color: #DDA0DD">o</span> <span style="color: #87CEEB">W</span><span style="color: #FFD700">o</span><span style="color: #FF69B4">r</span><span style="color: #98FB98">l</span><span style="color: #DDA0DD">d</span>     │                              
+                                    │                                 │                              
+                                    │                                 │                              
+                                    │                                 │                              
+                                    ╰─────────────────────────────────╯                              
+                                                                                                     
+                                                                                                     
+                                                                                                     
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
